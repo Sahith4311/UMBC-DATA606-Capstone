@@ -1,6 +1,6 @@
 # Shiva Sahith Gaddam
 
-![Headshot](docs/ShivaSahithGaddam.JPG)
+![Headshot](https://github.com/Sahith4311/UMBC-DATA606-Capstone/blob/de8a791b566664fc0579a15e8f7cd1764753f8cb/docs/ShivaSahithGaddam.JPG)
 
 - Email: wh29617@umbc.edu
 - Phone: (704) 465-7819
