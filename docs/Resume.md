@@ -1,6 +1,6 @@
 # Shiva Sahith Gaddam
 
-![Headshot](link_to_headshot_image)
+![Headshot](docs/ShivaSahithGaddam.JPG)
 
 - Email: wh29617@umbc.edu
 - Phone: (704) 465-7819
