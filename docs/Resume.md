@@ -1,17 +1,18 @@
-# Shiva Sahith Gaddam
+# <p align="center">Shiva Sahith Gaddam</p>
+<p align="center">
+  <img src="https://github.com/Sahith4311/UMBC-DATA606-Capstone/blob/de8a791b566664fc0579a15e8f7cd1764753f8cb/docs/ShivaSahithGaddam.JPG" alt="Headshot" width="150" height="150">
+</p>
 
-![Headshot](https://github.com/Sahith4311/UMBC-DATA606-Capstone/blob/de8a791b566664fc0579a15e8f7cd1764753f8cb/docs/ShivaSahithGaddam.JPG)
-
-- Email: wh29617@umbc.edu
-- Phone: (704) 465-7819
-- LinkedIn: [LinkedIn Profile](your_linkedin_profile)
+<p align="center">
+  <strong>Email:</strong> <a href="mailto:wh29617@umbc.edu">wh29617@umbc.edu</a> | <strong>Phone:</strong> (704) 465-7819
+</p>
 
 ## Education
 - **University of Maryland Baltimore County, Maryland**
   - Master of Science, Data Science (Expected May 2024)
-  - GPA: 3.833/4
+  - GPA: 3.778/4
 
-- **CVR College of Engineering, Telangana**
+- **CVR College of Engineering, Telangana, India**
   - Bachelor of Technology, Mechanical Engineering (Jul 2022)
   - CGPA: 8.99/10
 
