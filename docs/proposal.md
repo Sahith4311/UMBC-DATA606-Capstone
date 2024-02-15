@@ -6,7 +6,7 @@
 
 [GitHub](https://github.com/Sahith4311)
 
-[LinkedIn](https://www.linkedin.com/in/gaddam-shivasahith-290567175/)
+[LinkedIn](https://www.linkedin.com/in/shiva-sahith-gaddam-290567175/)
 
 ## Background
 1. **What is it about?**
