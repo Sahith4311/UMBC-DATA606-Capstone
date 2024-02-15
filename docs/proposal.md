@@ -1,4 +1,4 @@
-# House Price Prediction
+# Real estate Price Prediction
 
 **Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaoji (Jay) Wang - SPRING 2024 Semester**
 
