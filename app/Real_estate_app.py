@@ -48,7 +48,7 @@ from sklearn.model_selection import train_test_split
 import warnings
 warnings.filterwarnings('ignore')
 
-df=pd.read_csv('Real estate.csv')
+df=pd.read_csv('app/Real estate.csv')
 
 x=df.drop(['Y house price of unit area', 'No'], axis=1)
 y=df['Y house price of unit area']
