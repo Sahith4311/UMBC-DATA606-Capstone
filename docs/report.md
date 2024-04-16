@@ -89,7 +89,7 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset's
 </div>
   <div style="flex: 1;">
     <p align="center">
-    <img src="Transaction_date.png" alt="Pca Variance" width="700">
+    <img src="Transcation_date.png" alt="Pca Variance" width="700">
     </p>
 </div>
  
