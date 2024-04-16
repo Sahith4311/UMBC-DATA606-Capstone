@@ -242,6 +242,10 @@ By embracing these lessons learned, future projects in real estate price predict
 8. **Geospatial Visualization:** Implementing interactive geospatial visualization tools can facilitate data exploration and decision-making for stakeholders in the real estate industry. Heatmaps, choropleth maps, and interactive dashboards enable users to visualize spatial patterns, explore property attributes, and make informed decisions based on spatial insights.
 
 By embracing these future scope areas, researchers and practitioners in the field of real estate price prediction can advance the state-of-the-art models, uncover deeper insights, and develop innovative solutions to address the evolving challenges and opportunities in the real estate market.
-```
+
+## References:
+https://www.geeksforgeeks.org/ml-linear-regression/
+https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15
+https://baotramduong.medium.com/regression-rivalry-mse-vs-mae-vs-rmse-which-is-the-best-metric-9f898167e773#:~:text=to%20use%20each.-,Mean%20Squared%20Error%20(MSE)%2C%20Mean%20Absolute%20Error%20(MAE,between%20predicted%20and%20actual%20values.
 
 
