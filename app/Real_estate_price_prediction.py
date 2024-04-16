@@ -16,7 +16,7 @@ warnings.filterwarnings('ignore')
 # In[2]:
 
 
-df=pd.read_csv('Real estate.csv')
+df=pd.read_csv('app/Real estate.csv')
 
 
 # In[3]:
