@@ -41,7 +41,7 @@ def main():
     # Prediction button
     if st.button("Predict"):
         result = Real_Estate_prediction(a, b, c, d, e, f)
-        st.success(f"The predicted price is {result[0]:,.2f} units.")
+        st.success(f"The predicted price is {result[0]/100:.4f} units.")
 
 
 from sklearn.model_selection import train_test_split
