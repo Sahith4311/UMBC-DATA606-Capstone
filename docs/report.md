@@ -96,41 +96,41 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset's
 - **X2 House Age:** The distribution of house ages shows that the majority of houses are relatively new, with ages concentrated around 0 to 20 years. This indicates a predominantly modern housing market.
 <div style="flex: 1;">
     <p align="center">
-    <img src="docs/House_Age.png" alt="Pca Variance" width="700">
+    <img src="House_Age.png" alt="Pca Variance" width="700">
     </p>
 </div>
 
 - **X3 Distance to the Nearest MRT Station:** The histogram displays variations in distances, with some houses located very close to MRT stations and others farther away. Proximity to public transportation may influence housing prices.
 - <div style="flex: 1;">
     <p align="center">
-    <img src="docs/MRT_station.png" alt="Pca Variance" width="700">
+    <img src="MRT_station.png" alt="Pca Variance" width="700">
     </p>
 </div>
 
 - **X4 Number of Convenience Stores:** The histogram illustrates that the majority of houses have a small number of convenience stores nearby, with a few outliers having a higher count. This suggests that access to amenities may vary across locations.
 - <div style="flex: 1;">
     <p align="center">
-    <img src="docs/Convinence_stores.png" alt="Pca Variance" width="700">
+    <img src="Convinence_stores.png" alt="Pca Variance" width="700">
     </p>
 </div>
 
 - **X5 Latitude and X6 Longitude:** The histograms of latitude and longitude values show distributions corresponding to the geographical area covered by the dataset. These features represent the spatial coordinates of housing units, which may affect their desirability and prices.
 - <div style="flex: 1;">
     <p align="center">
-    <img src="docs/latitude.png" alt="Pca Variance" width="700">
+    <img src="latitude.png" alt="Pca Variance" width="700">
     </p>
     
 </div>
 <div style="flex: 1;">
     <p align="center">
-    <img src="docs/longitude.png" alt="Pca Variance" width="700">
+    <img src="longitude.png" alt="Pca Variance" width="700">
     </p>
 </div>
 
 - **Y House Price of Unit Area:** The histogram of house prices per unit area reveals variability, with prices ranging from 7.6 to 117.5 currency units per square meter. This variation underscores the importance of understanding factors driving price differences across properties.
 - <div style="flex: 1;">
     <p align="center">
-    <img src="docs/House_price.png" alt="Pca Variance" width="700">
+    <img src="House_price.png" alt="Pca Variance" width="700">
     </p>
 </div>
 
@@ -191,7 +191,7 @@ After training the linear regression model to predict house prices based on vari
 These metrics serve as indicators of the model's predictive performance, with lower values indicating better accuracy and precision in predicting house prices. While the model demonstrates reasonable performance, further optimization and fine-tuning may be explored to improve its predictive capabilities.
 <div style="flex: 1;">
     <p align="center">
-    <img src="docs/residual errors.png" alt="Pca Variance" width="700">
+    <img src="residual errors.png" alt="Pca Variance" width="700">
     </p>
 </div>
 
@@ -209,7 +209,7 @@ These metrics provide insights into the model's predictive accuracy and performa
 Moreover, visual analysis of the scatter plot comparing predicted and actual prices reveals a generally positive correlation between the two, indicating that the model captures the underlying patterns in the data effectively. Additionally, the residual plot shows no clear patterns or trends, suggesting that the model's predictions exhibit random errors and do not display systematic bias.
 <div style="flex: 1;">
     <p align="center">
-    <img src="docs/test vs predicted.png" alt="Pca Variance" width="700">
+    <img src="test vs predicted.png" alt="Pca Variance" width="700">
     </p>
 </div>
 
