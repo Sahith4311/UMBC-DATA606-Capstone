@@ -74,7 +74,6 @@ The features or predictors for the machine learning model in this dataset could 
 - Number of nearby convenience stores: Access to amenities like convenience stores may affect housing prices.
 - Latitude and longitude: Geographic coordinates could capture the location's desirability or accessibility.
 
-  ```markdown
 # Exploratory Data Analysis (EDA)
 
 ## Overview
@@ -87,6 +86,10 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset's
 ## Data Visualization
 ### Histograms:
 - **X1 Transaction Date:** The histogram of transaction dates reveals that most transactions occurred in the latter half of the time period, suggesting potential temporal trends in housing market activity.
+
+<p align="center">
+  <img src="https://github.com/Sahith4311/UMBC-DATA606-Capstone/blob/de8a791b566664fc0579a15e8f7cd1764753f8cb/docs/Transaction_date.png" alt="Headshot" width="150" height="150">
+</p>
 
 <div style="flex: 1;">
     <p align="center">
