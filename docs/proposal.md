@@ -245,7 +245,9 @@ By embracing these future scope areas, researchers and practitioners in the fiel
 
 ## References:
 https://www.geeksforgeeks.org/ml-linear-regression/
+
 https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15
+
 https://baotramduong.medium.com/regression-rivalry-mse-vs-mae-vs-rmse-which-is-the-best-metric-9f898167e773#:~:text=to%20use%20each.-,Mean%20Squared%20Error%20(MSE)%2C%20Mean%20Absolute%20Error%20(MAE,between%20predicted%20and%20actual%20values.
 
 
