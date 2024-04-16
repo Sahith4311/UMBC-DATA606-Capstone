@@ -86,15 +86,13 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the dataset's
 ## Data Visualization
 ### Histograms:
 - **X1 Transaction Date:** The histogram of transaction dates reveals that most transactions occurred in the latter half of the time period, suggesting potential temporal trends in housing market activity.
-
-
-<div style="flex: 1;">
+</div>
+  <div style="flex: 1;">
     <p align="center">
-    <img src="docs/Transaction_date.png" alt="Pca Variance" width="700">
+    <img src="Transaction_date.png" alt="Pca Variance" width="700">
     </p>
 </div>
  
-
 - **X2 House Age:** The distribution of house ages shows that the majority of houses are relatively new, with ages concentrated around 0 to 20 years. This indicates a predominantly modern housing market.
 <div style="flex: 1;">
     <p align="center">
