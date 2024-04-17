@@ -227,6 +227,19 @@ While the current version of the application provides valuable functionality for
 Furthermore, integrating interactive geospatial visualization tools could enhance data exploration and decision-making by providing visual insights into spatial patterns and property attributes. Developing dynamic pricing models that adapt to changing market conditions in real-time could offer valuable decision support for stakeholders by providing personalized pricing recommendations and optimizing pricing strategies based on current market trends.
 
 In conclusion, the Streamlit application for real estate price prediction serves as a valuable tool for stakeholders in the real estate market, offering an intuitive and accessible platform for estimating property values based on specific features. With its user-friendly interface, real-time feedback, and potential for future enhancements, the application empowers users to make informed decisions and navigate the complexities of the real estate market with confidence.
+</div>
+  <div style="flex: 1;">
+    <p align="center">
+    <img src="web_page_1.png" alt="Pca Variance" width="700">
+    </p>
+</div>
+
+</div>
+  <div style="flex: 1;">
+    <p align="center">
+    <img src="web_page_2.png" alt="Pca Variance" width="700">
+    </p>
+</div>
 
 ## Conclusion:
 
