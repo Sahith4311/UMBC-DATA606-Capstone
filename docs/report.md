@@ -10,6 +10,8 @@
 
 [Powerpoint Presentation](capstone.pptx)
 
+[Youtube Video Presentation](https://youtu.be/umVSh1izi4w)
+
 ## Background
 1. **What is it about?**
    The project focuses on predicting real estate prices using machine learning techniques. Real estate pricing is a critical aspect of the housing market, impacting both buyers and sellers. By analyzing various features such as transaction date, house age, distance to amenities, and geographical coordinates, the project aims to develop a model that accurately predicts the price of residential properties.
